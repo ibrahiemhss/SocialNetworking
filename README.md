@@ -4,4 +4,4 @@ An application for learning where I was trying to do a social networking app on 
 
 ## Issues 
 * app not work.
-* all urls not found now.
+* all urls not work now.
